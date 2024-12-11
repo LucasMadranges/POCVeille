@@ -1,8 +1,7 @@
-# React + Vite
+# Serveless Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application POC pour la veille de développement fullstack sans serveur, dit "
 
-Currently, two official plugins are available:
+## Architecture
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **/lambda** : Fichier de config pour la fonction Lambda AWS.
