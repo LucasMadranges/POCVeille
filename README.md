@@ -1,4 +1,4 @@
-# Serveless Application
+# Serverless Application
 
 Application POC pour la veille de développement fullstack sans serveur, dit "
 
