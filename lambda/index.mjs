@@ -1,10 +1,11 @@
-import {Client} from "pg";
+import pkg from "pg";
+
+const {Client} = pkg;
 
 const dbConfig = {
-    host: "database-veille.cf6go6kgqiog.eu-west-3.rds.amazonaws.com",
-    user: "postgres",
-    password: "pobsav-bifjuB-qiqfe3",
-    database: "database-veille",
+    host: "votrehost",
+    password: "votremdp",
+    database: "votredb",
     port: 5432, // Par défaut pour PostgreSQL
 };
 
